@@ -4,11 +4,10 @@ Bu depo, [Fuat Arslanhan'ın GitHub.io web sitesi](https://farslab.github.io/) i
 
 ## İçindekiler
 
-- [Hakkında](#about)
-- [Yetenekler](#skills)
-- [Özgeçmiş](#resume)
-- [Portföy](#portfolio)
-- [Footer](#footer)
+- [Hakkında](https://farslab.github.io/#about)
+- [Yetenekler](https://farslab.github.io/#skills)
+- [Özgeçmiş](https://farslab.github.io/#resume)
+- [Portföy](https://farslab.github.io/#portfolio)
 
 ## Hakkında
 
